@@ -1,0 +1,1 @@
+export const fetchResource = fetch(url).then(res=>res.data)
